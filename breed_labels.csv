@@ -1,0 +1,308 @@
+BreedID,Type,BreedName,LifeExpectancy
+1,1,Affenpinscher,156
+2,1,Afghan Hound,144
+3,1,Airedale Terrier,132
+4,1,Akbash,120
+5,1,Akita,120
+6,1,Alaskan Malamute,132
+7,1,American Bulldog,132
+8,1,American Eskimo Dog,156
+9,1,American Hairless Terrier,180
+10,1,American Staffordshire Terrier,156
+11,1,American Water Spaniel,132
+12,1,Anatolian Shepherd,144
+13,1,Appenzell Mountain Dog,156
+14,1,Australian Cattle Dog/Blue Heeler,168
+15,1,Australian Kelpie,168
+16,1,Australian Shepherd,144
+17,1,Australian Terrier,168
+18,1,Basenji,180
+19,1,Basset Hound,132
+20,1,Beagle,144
+21,1,Bearded Collie,156
+22,1,Beauceron,132
+23,1,Bedlington Terrier,156
+24,1,Belgian Shepherd Dog Sheepdog,144
+25,1,Belgian Shepherd Laekenois,156
+26,1,Belgian Shepherd Malinois,156
+27,1,Belgian Shepherd Tervuren,144
+28,1,Bernese Mountain Dog,96
+29,1,Bichon Frise,144
+30,1,Black and Tan Coonhound,132
+31,1,Black Labrador Retriever,144
+32,1,Black Mouth Cur,168
+33,1,Black Russian Terrier,120
+34,1,Bloodhound,132
+35,1,Blue Lacy,192
+36,1,Bluetick Coonhound,144
+37,1,Boerboel,132
+38,1,Bolognese,156
+39,1,Border Collie,156
+40,1,Border Terrier,132
+41,1,Borzoi,108
+42,1,Boston Terrier,132
+43,1,Bouvier des Flanders,108
+44,1,Boxer,108
+45,1,Boykin Spaniel,180
+46,1,Briard,108
+47,1,Brittany Spaniel,156
+48,1,Brussels Griffon,156
+49,1,Bull Terrier,120
+50,1,Bullmastiff,96
+51,1,Cairn Terrier,168
+52,1,Canaan Dog,156
+53,1,Cane Corso Mastiff,108
+54,1,Carolina Dog,168
+55,1,Catahoula Leopard Dog,144
+56,1,Cattle Dog,168
+57,1,Caucasian Sheepdog (Caucasian Ovtcharka),132
+58,1,Cavalier King Charles Spaniel,132
+59,1,Chesapeake Bay Retriever,108
+60,1,Chihuahua,180
+61,1,Chinese Crested Dog,192
+62,1,Chinese Foo Dog,168
+63,1,Chinook,168
+64,1,Chocolate Labrador Retriever,144
+65,1,Chow Chow,108
+66,1,Cirneco dell'Etna,156
+67,1,Clumber Spaniel,132
+68,1,Cockapoo,192
+69,1,Cocker Spaniel,168
+70,1,Collie,132
+71,1,Coonhound,132
+72,1,Corgi,168
+73,1,Coton de Tulear,180
+74,1,Curly-Coated Retriever,144
+75,1,Dachshund,156
+76,1,Dalmatian,132
+77,1,Dandi Dinmont Terrier,168
+78,1,Doberman Pinscher,120
+79,1,Dogo Argentino,168
+80,1,Dogue de Bordeaux,120
+81,1,Dutch Shepherd,156
+82,1,English Bulldog,108
+83,1,English Cocker Spaniel,144
+84,1,English Coonhound,144
+85,1,English Pointer,156
+86,1,English Setter,144
+87,1,English Shepherd,144
+88,1,English Springer Spaniel,132
+89,1,English Toy Spaniel,168
+90,1,Entlebucher,156
+91,1,Eskimo Dog,168
+92,1,Feist,144
+93,1,Field Spaniel,132
+94,1,Fila Brasileiro,120
+95,1,Finnish Lapphund,156
+96,1,Finnish Spitz,156
+97,1,Flat-coated Retriever,132
+98,1,Fox Terrier,180
+99,1,Foxhound,132
+100,1,French Bulldog,108
+101,1,Galgo Spanish Greyhound,168
+102,1,German Pinscher,156
+103,1,German Shepherd Dog,120
+104,1,German Shorthaired Pointer,132
+105,1,German Spitz,168
+106,1,German Wirehaired Pointer,156
+107,1,Giant Schnauzer,120
+108,1,Glen of Imaal Terrier,144
+109,1,Golden Retriever,144
+110,1,Gordon Setter,132
+111,1,Great Dane,84
+112,1,Great Pyrenees,108
+113,1,Greater Swiss Mountain Dog,132
+114,1,Greyhound,108
+115,1,Harrier,132
+116,1,Havanese,168
+117,1,Hound,144
+118,1,Hovawart,144
+119,1,Husky,168
+120,1,Ibizan Hound,132
+121,1,Illyrian Sheepdog,144
+122,1,Irish Setter,144
+123,1,Irish Terrier,168
+124,1,Irish Water Spaniel,132
+125,1,Irish Wolfhound,84
+126,1,Italian Greyhound,168
+127,1,Italian Spinone,156
+128,1,Jack Russell Terrier,168
+129,1,Jack Russell Terrier (Parson Russell Terrier),168
+130,1,Japanese Chin,156
+131,1,Jindo,168
+132,1,Kai Dog,180
+133,1,Karelian Bear Dog,144
+134,1,Keeshond,144
+135,1,Kerry Blue Terrier,168
+136,1,Kishu,144
+137,1,Klee Kai,180
+138,1,Komondor,132
+139,1,Kuvasz,132
+140,1,Kyi Leo,168
+141,1,Labrador Retriever,144
+142,1,Lakeland Terrier,156
+143,1,Lancashire Heeler,168
+144,1,Leonberger,108
+145,1,Lhasa Apso,168
+146,1,Lowchen,156
+147,1,Maltese,144
+148,1,Manchester Terrier,156
+149,1,Maremma Sheepdog,144
+150,1,Mastiff,84
+151,1,McNab,180
+152,1,Miniature Pinscher,180
+153,1,Mountain Cur,180
+154,1,Mountain Dog,84
+155,1,Munsterlander,144
+156,1,Neapolitan Mastiff,108
+157,1,New Guinea Singing Dog,204
+158,1,Newfoundland Dog,108
+159,1,Norfolk Terrier,168
+160,1,Norwegian Buhund,168
+161,1,Norwegian Elkhound,168
+162,1,Norwegian Lundehund,156
+163,1,Norwich Terrier,156
+164,1,Nova Scotia Duck-Tolling Retriever,144
+165,1,Old English Sheepdog,132
+166,1,Otterhound,144
+167,1,Papillon,168
+168,1,Patterdale Terrier (Fell Terrier),180
+169,1,Pekingese,144
+170,1,Peruvian Inca Orchid,144
+171,1,Petit Basset Griffon Vendeen,156
+172,1,Pharaoh Hound,156
+173,1,Pit Bull Terrier,132
+174,1,Plott Hound,156
+175,1,Podengo Portugueso,156
+176,1,Pointer,156
+177,1,Polish Lowland Sheepdog,168
+178,1,Pomeranian,120
+179,1,Poodle,168
+180,1,Portuguese Water Dog,168
+181,1,Presa Canario,120
+182,1,Pug,132
+183,1,Puli,156
+184,1,Pumi,108
+185,1,Rat Terrier,168
+186,1,Redbone Coonhound,144
+187,1,Retriever,132
+188,1,Rhodesian Ridgeback,132
+189,1,Rottweiler,108
+190,1,Saint Bernard,96
+191,1,Saluki,156
+192,1,Samoyed,144
+193,1,Sarplaninac,144
+194,1,Schipperke,168
+195,1,Schnauzer,156
+196,1,Scottish Deerhound,132
+197,1,Scottish Terrier Scottie,168
+198,1,Sealyham Terrier,156
+199,1,Setter,144
+200,1,Shar Pei,120
+201,1,Sheep Dog,132
+202,1,Shepherd,132
+203,1,Shetland Sheepdog Sheltie,156
+204,1,Shiba Inu,168
+205,1,Shih Tzu,156
+206,1,Siberian Husky,168
+207,1,Silky Terrier,168
+208,1,Skye Terrier,168
+209,1,Sloughi,168
+210,1,Smooth Fox Terrier,168
+211,1,South Russian Ovtcharka,120
+212,1,Spaniel,144
+213,1,Spitz,144
+214,1,Staffordshire Bull Terrier,144
+215,1,Standard Poodle,144
+216,1,Sussex Spaniel,168
+217,1,Swedish Vallhund,168
+218,1,Terrier,144
+219,1,Thai Ridgeback,156
+220,1,Tibetan Mastiff,156
+221,1,Tibetan Spaniel,168
+222,1,Tibetan Terrier,168
+223,1,Tosa Inu,132
+224,1,Toy Fox Terrier,168
+225,1,Treeing Walker Coonhound,156
+226,1,Vizsla,168
+227,1,Weimaraner,120
+228,1,Welsh Corgi,168
+229,1,Welsh Springer Spaniel,168
+230,1,Welsh Terrier,168
+231,1,West Highland White Terrier Westie,156
+232,1,Wheaten Terrier,168
+233,1,Whippet,156
+234,1,White German Shepherd,156
+235,1,Wire Fox Terrier,168
+236,1,Wire-haired Pointing Griffon,132
+237,1,Wirehaired Terrier,168
+238,1,Xoloitzcuintle/Mexican Hairless,168
+239,1,Yellow Labrador Retriever,144
+240,1,Yorkshire Terrier Yorkie,168
+307,1,Mixed Breed,120
+241,2,Abyssinian,156
+242,2,American Curl,216
+243,2,American Shorthair,204
+244,2,American Wirehair,120
+245,2,Applehead Siamese,192
+246,2,Balinese,240
+247,2,Bengal,180
+248,2,Birman,180
+249,2,Bobtail,168
+250,2,Bombay,204
+251,2,British Shorthair,156
+252,2,Burmese,204
+253,2,Burmilla,156
+254,2,Calico,168
+255,2,Canadian Hairless,132
+256,2,Chartreux,168
+257,2,Chausie,156
+258,2,Chinchilla,168
+259,2,Cornish Rex,156
+260,2,Cymric,132
+261,2,Devon Rex,144
+262,2,Dilute Calico,180
+263,2,Dilute Tortoiseshell,180
+264,2,Domestic Long Hair,180
+265,2,Domestic Medium Hair,156
+266,2,Domestic Short Hair,156
+267,2,Egyptian Mau,180
+268,2,Exotic Shorthair,156
+269,2,Extra-Toes Cat (Hemingway Polydactyl),180
+270,2,Havana,168
+271,2,Himalayan,192
+272,2,Japanese Bobtail,204
+273,2,Javanese,144
+274,2,Korat,192
+275,2,LaPerm,144
+276,2,Maine Coon,156
+277,2,Manx,132
+278,2,Munchkin,156
+279,2,Nebelung,204
+280,2,Norwegian Forest Cat,180
+281,2,Ocicat,144
+282,2,Oriental Long Hair,144
+283,2,Oriental Short Hair,144
+284,2,Oriental Tabby,144
+285,2,Persian,192
+286,2,Pixie-Bob,144
+287,2,Ragamuffin,216
+288,2,Ragdoll,180
+289,2,Russian Blue,216
+290,2,Scottish Fold,180
+291,2,Selkirk Rex,144
+292,2,Siamese,180
+293,2,Siberian,156
+294,2,Silver,180
+295,2,Singapura,144
+296,2,Snowshoe,168
+297,2,Somali,132
+298,2,Sphynx (hairless cat),168
+299,2,Tabby,204
+300,2,Tiger,192
+301,2,Tonkinese,168
+302,2,Torbie,180
+303,2,Tortoiseshell,180
+304,2,Turkish Angora,192
+305,2,Turkish Van,180
+306,2,Tuxedo,180
